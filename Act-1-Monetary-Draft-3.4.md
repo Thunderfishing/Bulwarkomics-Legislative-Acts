@@ -1,4 +1,4 @@
-9# Crossroads Monetary Reform and Economic Stabilization Act of 2025
+99# Crossroads Monetary Reform and Economic Stabilization Act of 2025
 **Draft Version**: 3.4  
 **Date**: April 6, 2025  
 **Author**: Collaborative effort via xAI Grok 3  
@@ -162,7 +162,8 @@ This repository contains the core acts driving Bulwarkomics—a debt-free, co-op
 - **Goals**: Wipe $13T debt, boost informal economy to $537B, achieve 90% co-op ownership ($13T GDP share).
 
 ## Acts
-- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-%20Educational-Draft-3.1.md)  Provides debt-free education for 16.8M students, trains 1.2M journeymen.
+- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-Educational-Draft-3.1.md)  
+  Provides debt-free education for 16.8M students, trains 1.2M journeymen.
 
 ## Simulation Data
 See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
