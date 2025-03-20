@@ -128,3 +128,31 @@ This repository contains the core acts driving Bulwarkomics—a debt-free, co-op
 
 ## Simulation Data
 See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
+
+# Bulwarkomics Legislative Acts
+Legislative framework for New Crossroads, a post-revolution nation (100M, $10T GDP, 2025 → 112M, $14.5T GDP, 2075), targeting $0 debt, $537B informal economy, and 90% co-op ownership by 2075.
+
+This repository contains the core acts driving Bulwarkomics—a debt-free, co-operative economic system. Each act builds on a unified simulation, integrating dual currency, blockchain hubs, sovereign wealth funds (SWFs), tax reforms, and governance restructuring.
+
+## Overview
+- **Start**: 2025—100M population, $10T GDP (drops to $8T post-revolution), $13T debt.
+- **End**: 2075—112M population, $14.5T GDP, $0 debt, $537B informal economy (30% of $1.79T local flow).
+- **Goals**: Wipe $13T debt, boost informal economy to $537B, achieve 90% co-op ownership ($13T GDP share).
+
+## Acts
+# Bulwarkomics Legislative Acts
+Legislative framework for New Crossroads, a post-revolution nation (100M, $10T GDP, 2025 → 112M, $14.5T GDP, 2075), targeting $0 debt, $537B informal economy, and 90% co-op ownership by 2075.
+
+This repository contains the core acts driving Bulwarkomics—a debt-free, co-operative economic system. Each act builds on a unified simulation, integrating dual currency, blockchain hubs, sovereign wealth funds (SWFs), tax reforms, and governance restructuring.
+
+## Overview
+- **Start**: 2025—100M population, $10T GDP (drops to $8T post-revolution), $13T debt.
+- **End**: 2075—112M population, $14.5T GDP, $0 debt, $537B informal economy (30% of $1.79T local flow).
+- **Goals**: Wipe $13T debt, boost informal economy to $537B, achieve 90% co-op ownership ($13T GDP share).
+
+## Acts
+- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-%20Educational-Draft-3.1.md)
+- Provides debt-free education for 16.8M students, trains 1.2M journeymen.
+
+## Simulation Data
+See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
