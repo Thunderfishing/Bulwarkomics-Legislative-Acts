@@ -82,6 +82,4 @@ This repository contains the core acts driving Bulwarkomics—a debt-free, co-op
   Trains 1.2M journeymen, integrates 7.5M immigrants with national service.
 - [Act 5: Communications and Media Resilience Draft 2.1](./Act-5-Communications-Draft-2.1.md)  
   Restores AM radio, targets 95% rural reach (26.6M) for $537B informal boost.
-
-## Simulation Data
-See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
+  Thunderfishing/Bulwarkomics-Co-operative-Healthcare-Mental-Health-Act
