@@ -6,8 +6,8 @@ Explore the acts in sequence, each building on the last to create Bulwarkomics:
 ## The Legislative Chain
 1. **[Monetary Reform and Economic Stabilization Draft 3.4](./Act-1-Monetary-Draft-3.4.md)**  
    Wipes $13T debt with dual currency and SWFs → *Next:*  
-2. **[Educational Reform and Workforce Development Draft 3.1](./Act-2-%20Educational-Draft-3.1.md)**  
-   Educates 16.8M debt-free, trains 1.2M journeymen → *Next:*  
+- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-Educational-Draft-3.1.md)  
+  Provides debt-free education for 16.8M students, trains 1.2M journeymen.
 3. **[Co-operative Healthcare and Mental Wellness Draft 3.1](./Act-3-Healthcare-Draft-3.1.md)**  
    Covers 65M healthcare, 40M mental health via co-ops → *Next:*  
 4. **[Workforce Development and National Service Draft 3.1](./Act-4-Workforce-Draft-3.1.md)**  
