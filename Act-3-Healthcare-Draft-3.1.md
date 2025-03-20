@@ -62,6 +62,5 @@ Whereas New Crossroads demands bloat-free healthcare and mental wellness post-re
 ## Notes
 - **Adoption**: 75% (2030) → 58%/36% (2075) with $5B credits.
 - **Informal**: $5B boosts $537B economy.
-- **Synergy**: Ties to *Monetary Act*’s $15B credits, *Workforce Act*’s staffing.
-
+- **Synergy**: Ties to *Monetary Act*’s $15B credits, *Workforce Act*’s
 - Thunderfishing/Bulwarkomics-Co-operative-Healthcare-Mental-Health-Act
