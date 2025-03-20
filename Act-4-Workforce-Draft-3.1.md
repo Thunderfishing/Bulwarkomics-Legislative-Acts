@@ -60,3 +60,20 @@ Whereas New Crossroads seeks a skilled workforce and informal swirl post-revolut
 - **Informal**: 500K track adds $100B (2075).
 - **Risks**: $100B tax loss offset by tariffs.
 - **Synergy**: Ties to *Education Act* boot camp, *Monetary Act*’s $537B informal.
+
+# Bulwarkomics Legislative Acts
+Legislative framework for New Crossroads, a post-revolution nation (100M, $10T GDP, 2025 → 112M, $14.5T GDP, 2075), targeting $0 debt, $537B informal economy, and 90% co-op ownership by 2075.
+
+This repository contains the core acts driving Bulwarkomics—a debt-free, co-operative economic system. Each act builds on a unified simulation, integrating dual currency, blockchain hubs, sovereign wealth funds (SWFs), tax reforms, and governance restructuring.
+
+## Overview
+- **Start**: 2025—100M population, $10T GDP (drops to $8T post-revolution), $13T debt.
+- **End**: 2075—112M population, $14.5T GDP, $0 debt, $537B informal economy (30% of $1.79T local flow).
+- **Goals**: Wipe $13T debt, boost informal economy to $537B, achieve 90% co-op ownership ($13T GDP share).
+
+## Acts
+- [Act 5: Communications and Media Resilience Draft 2.1](./Act-5-Communications-Draft-2.1.md)  
+  Restores AM radio, targets 95% rural reach (26.6M) for $537B informal boost.
+
+## Simulation Data
+See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
