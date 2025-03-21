@@ -186,9 +186,13 @@ This amendment integrates a 9.5% flat tax on co-operative and corporate profits 
 - **Risks**: $436B tax loss offset by $561B revenue (2075).
 - **Synergy**: $225B rural informal ties to *Communications Act*’s $52.5B content.
 
+---
+
 ## Acts
 - [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-Educational-Draft-3.1.md)  
   Provides debt-free education for 16.8M students, trains 1.2M journeym
+
+---
 
 ## Simulation Data
 See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
