@@ -67,8 +67,6 @@ Whereas the people of New Crossroads demand a monetary system post-revolution th
 - **Anti-Co-op Repeal**: Eliminate blocking laws.
 - **Purpose**: Drive $537B informal, 90% co-op ($13T), $50B dividends (2075).
 
----
-
 ## Section 4: Tax and Economic Reforms
 - **Tax Elimination**: Federal income tax ($400B back), property tax banned ($400M aid bottom 20%).
 - **Excise Tax**: 20% luxuries ($150M/year fading), 5% co-op goods ($1B/year 2075), 0% essentials.
@@ -77,7 +75,10 @@ Whereas the people of New Crossroads demand a monetary system post-revolution th
 - **Glass-Steagall**: Separate banking, no bailouts.
 - **Price Discovery**: Transparent pricing, no farm subsidies.
 - **Purpose**: Free $100B informal, protect $200B funds, save $50B.
-# Bulwarkomics Monetary Act Amendment: 9.5% Co-operative/Corporate Flat Tax
+
+---
+
+## Bulwarkomics Monetary Act Amendment: 9.5% Co-operative/Corporate Flat Tax
 
 # Overview
 This amendment integrates a 9.5% flat tax on co-operative and corporate profits into the Bulwarkomics economic framework, effective 2035. It aims to enhance revenue for Sovereign Wealth Funds (SWFs) while preserving debt-free sustainability and co-op-driven growth. The tax applies to 80% of GDP (co-op output) and 50% of the informal economy (taxable corporate activity), maintaining the slow-burn ethos.
