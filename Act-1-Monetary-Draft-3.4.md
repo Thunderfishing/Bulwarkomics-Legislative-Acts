@@ -23,7 +23,7 @@ Whereas New Crossroads demands a post-revolution economy that axes debt, trims f
 - **Purpose**: Push local spending, aim for co-op control.
 
 ### Transaction Fee and Liquidity Pool
-- **Fee**:Dynamic Federal fee, up to a additional 2% on BWC trades over $1M, 1.5% base on others—split 20% to hubs, 80% to priorities.  
+- **Fee**: Dynamic Federal fee, up to a additional 2% on BWC trades over $1M, 1.5% base on others—split 20% to hubs, 80% to priorities.  
 - **Liquidity Pool**: Hubs pitch in 0.5% of fee income—half stays rural.  
 - **Purpose**: Fund resilience, steer informal growth.
 
