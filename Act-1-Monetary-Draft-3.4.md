@@ -80,7 +80,7 @@ Whereas the people of New Crossroads demand a monetary system post-revolution th
 
 ## Bulwarkomics Monetary Act Amendment: 9.5% Co-operative/Corporate Flat Tax
 
-# Overview
+## Overview
 This amendment integrates a 9.5% flat tax on co-operative and corporate profits into the Bulwarkomics economic framework, effective 2035. It aims to enhance revenue for Sovereign Wealth Funds (SWFs) while preserving debt-free sustainability and co-op-driven growth. The tax applies to 80% of GDP (co-op output) and 50% of the informal economy (taxable corporate activity), maintaining the slow-burn ethos.
 
 ## Section 1: Tax Implementation
