@@ -16,7 +16,7 @@ Whereas New Crossroads demands a post-revolution economy that axes debt, trims f
 - **Purpose**: Fuel informal trade, sharpen global pricing.
 
 ### Co-op Blockchain Hub Network
-- **Structure**: Thousands of hubs, some rural-locked—handle swaps (2% fee), micro-loans ($500 each,interest free), and trades (1.5% fee). Split profits: 50% to members, 50% reinvested.  
+- **Structure**: Thousands of hubs, some rural-locked—handle swaps (2% fee), micro-loans ($500 each, interest free), and trades (1.5% fee). Split profits: 50% to members, 50% reinvested.  
 - **Rural Bonus**: $600/family via hubs—kickstart rural informal markets.  
 - **Co-op Veto**: Co-op members vote via blockchain—75% approval to block amendments.  
 - **Hub Voting**: Citizens vote through hubs—75% locks loans and swaps.  
