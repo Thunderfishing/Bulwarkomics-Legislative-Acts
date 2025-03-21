@@ -1,5 +1,5 @@
-**Crossroads Monetary Reform and 
-Economic Stabilization Act of 2025**
+## Crossroads Monetary Reform and 
+## Economic Stabilization Act of 2025
 
 **Draft Version**: 3.4  
 **Date**: April 6, 2025  
