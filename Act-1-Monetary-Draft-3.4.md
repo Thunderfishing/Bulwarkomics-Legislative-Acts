@@ -1,4 +1,4 @@
-## Crossroads Monetary Reform and 
+# Crossroads Monetary Reform and 
 # Economic Stabilization Act of 2025
 
 **Draft Version**: 3.4  
