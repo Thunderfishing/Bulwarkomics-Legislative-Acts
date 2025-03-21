@@ -1,4 +1,4 @@
-9# Crossroads Communications and Media Resilience Act of 2025
+## Crossroads Communications and Media Resilience Act of 2025
 **Draft Version**: 2.1  
 **Date**: April 6, 2025  
 **Author**: Collaborative effort via xAI Grok 3  
