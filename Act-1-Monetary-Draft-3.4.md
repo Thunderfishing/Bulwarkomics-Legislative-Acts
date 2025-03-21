@@ -91,14 +91,14 @@ This amendment integrates a 9.5% flat tax on co-operative and corporate profits 
 - **Purpose**: Fund SWF growth, bolster energy infrastructure, and maintain lean spending without debt.
 
 ## Section 2: Revised Revenue Model
-### Pre-Tax Baseline (2125)
+## Pre-Tax Baseline (2125)
 - **GDP**: $1.8T  
 - **Revenue**: $235B (hubs $30B, excise $5B, tariffs $100B, SWF $100B)  
 - **Spending**: $90B  
 - **Surplus**: $145B  
 - **SWFs**: $460B  
 
-### With 9.5% Flat Tax (2035–2125)
+## With 9.5% Flat Tax (2035–2125)
 - **Tax Calculation**:  
   - Co-op GDP: $1.44T × 9.5% = $136.8B  
   - Informal (50%): $200B × 9.5% = $19B  
@@ -110,14 +110,14 @@ This amendment integrates a 9.5% flat tax on co-operative and corporate profits 
   - **New SWFs**: $460B + $1.3T = $1.76T  
 - **GDP Impact**: -4% co-op slowdown (conservative): $1.8T → $1.728T  
 
-### Pre-Tax Baseline (2550)
+## Pre-Tax Baseline (2550)
 - **GDP**: $15T  
 - **Revenue**: $405B (hubs $40B, excise $8B, tariffs $200B, SWF $117B)  
 - **Spending**: $150B  
 - **Surplus**: $255B  
 - **SWFs**: $3.5T  
 
-### With 9.5% Flat Tax (2035–2550)
+## With 9.5% Flat Tax (2035–2550)
 - **Tax Calculation**:  
   - Co-op GDP: $12T × 9.5% = $1.14T  
   - Informal (50%): $900B × 9.5% = $85.5B  
