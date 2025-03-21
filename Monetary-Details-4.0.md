@@ -56,5 +56,22 @@ Description: Companion to Monetary Act Draft 4.0—details fee structures, trigg
 - **Purpose**: Grow co-ops, cap investor sway.
 
 ## Notes
-- **Fortress Hub**: Central AM/fraud nexus—bullion backs cash, airbase guards it.  
+- **Fortress Hub**: Central AM/fraud nexus—bullion backs cash, airbase guards it.
+
+---
+
+## The Legislative Chain
+1. **[Monetary Reform and Economic Stabilization Draft 3.4](./Act-1-Monetary-Draft-3.4.md)**  
+   Wipes $13T debt with dual currency and SWFs → *Next:*  
+- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-Educational-Draft-3.1.md)  
+  Provides debt-free education for 16.8M students, trains 1.2M journeymen.
+3. **[Co-operative Healthcare and Mental Wellness Draft 3.1](./Act-3-Healthcare-Draft-3.1.md)**  
+   Covers 65M healthcare, 40M mental health via co-ops → *Next:*  
+4. **[Workforce Development and National Service Draft 3.1](./Act-4-Workforce-Draft-3.1.md)**  
+   Builds 1.2M journeymen, integrates 7.5M immigrants → *Next:*  
+5. **[Communications and Media Resilience Draft 2.1](./Act-5-Communications-Draft-2.1.md)**  
+   Restores AM radio, hits 95% rural reach for $537B informal boost.
+
+---
+
 - **Scope**: Execution details—no sim data, just triggers and percentages.
