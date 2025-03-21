@@ -1,5 +1,5 @@
-***Crossroads Monetary Reform and 
-Economic Stabilization Act of 2025***
+##Crossroads Monetary Reform and 
+Economic Stabilization Act of 2025##
 
 **Draft Version**: 3.4  
 **Date**: April 6, 2025  
@@ -161,11 +161,7 @@ This amendment integrates a 9.5% flat tax on co-operative and corporate profits 
 ## Section 5: Rationale
 - **Why 9.5%**: Balances revenue ($1.63T) with co-op health (-4% vs. -5% at 12.5%)—slower burn than 12.5%, stronger than 5%.  
 - **Fit**: Enhances debt-free sustainability, turbocharges SWFs ($15.5T), and cushions tariff risks (e.g., 2550 stress test).  
-- **Trade-Off**: Slight GDP dip (-4%) for massive asset growth ($16.8T)—long-term fortress over short-term max.  
-
-## Conclusion
-The 9.5% flat tax amends Bulwarkomics to fortify its slow-burn, debt-free model. By 2550, $1.63T revenue and $15.5T SWFs deliver $14.4T GDP and $16.8T net assets—sustainable, resilient, and co-op-centric with a lean $150B budget. This amendment ensures Bulwarkomics thrives for centuries.
----
+- **Trade-Off**: Slight GDP dip (-4%) for massive asset growth ($16.8T)—long-term fortress over short-term max. 
 
 ## Section 5: Governance and Oversight
 - **Regional Boards**: 20 boards (250 hubs each, 2075) oversee hubs, SWFs, FCL.
@@ -184,26 +180,15 @@ The 9.5% flat tax amends Bulwarkomics to fortify its slow-burn, debt-free model.
 - **2075**: $1.79T local (30% informal, $537B), 90% co-op, 1M FCLs.
 
 ---
-
 ## Notes
 - **Adoption**: 75% (2025) → 70% (2075) with $15B credits, *Communications Act*’s 95% rural reach.
 - **Informal**: $537B via $15M hub bonuses, $50B FCL dividends.
 - **Risks**: $436B tax loss offset by $561B revenue (2075).
 - **Synergy**: $225B rural informal ties to *Communications Act*’s $52.5B content.
 
-- # Bulwarkomics Legislative Acts
-Legislative framework for New Crossroads, a post-revolution nation (100M, $10T GDP, 2025 → 112M, $14.5T GDP, 2075), targeting $0 debt, $537B informal economy, and 90% co-op ownership by 2075.
-
-This repository contains the core acts driving Bulwarkomics—a debt-free, co-operative economic system. Each act builds on a unified simulation, integrating dual currency, blockchain hubs, sovereign wealth funds (SWFs), tax reforms, and governance restructuring.
-
-## Overview
-- **Start**: 2025—100M population, $10T GDP (drops to $8T post-revolution), $13T debt.
-- **End**: 2075—112M population, $14.5T GDP, $0 debt, $537B informal economy (30% of $1.79T local flow).
-- **Goals**: Wipe $13T debt, boost informal economy to $537B, achieve 90% co-op ownership ($13T
-
 ## Acts
-- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-%20Educational-Draft-3.1.md)  
-  Provides debt-free education for 16.8M students, trains 1.2M journeymen.
+- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-Educational-Draft-3.1.md)  
+  Provides debt-free education for 16.8M students, trains 1.2M journeym
 
 ## Simulation Data
 See the full simulation: [Simulation- Repository](https://github.com/Thunderfishing/Simulation-)
