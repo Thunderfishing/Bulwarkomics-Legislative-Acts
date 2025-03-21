@@ -67,6 +67,8 @@ Whereas the people of New Crossroads demand a monetary system post-revolution th
 - **Anti-Co-op Repeal**: Eliminate blocking laws.
 - **Purpose**: Drive $537B informal, 90% co-op ($13T), $50B dividends (2075).
 
+---
+
 ## Section 4: Tax and Economic Reforms
 - **Tax Elimination**: Federal income tax ($400B back), property tax banned ($400M aid bottom 20%).
 - **Excise Tax**: 20% luxuries ($150M/year fading), 5% co-op goods ($1B/year 2075), 0% essentials.
