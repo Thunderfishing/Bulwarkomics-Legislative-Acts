@@ -77,3 +77,8 @@ New Crossroads demands lean, co-op-run healthcare and mental wellness—zero fed
 - **Synergy**: Ties to Monetary Act—5,000 hubs, $15B credits, credit unions. AM care links to Communications Act.  
 - **Numbers**: $500M/$300M SWF seeds, $5B credits, $150–$600 premiums—proposal core, no sim clutter.  
 - **Next**: Update Workforce, Communications, EMSSWF Acts for healthcare sync.
+
+---
+
+**[Workforce Development and National Service Draft 3.1](./Act-4-Workforce-Draft-3.1.md)**  
+   Builds 1.2M journeymen, integrates 7.5M immigrants → *Next:*  
