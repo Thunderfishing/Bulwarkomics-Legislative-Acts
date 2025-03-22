@@ -85,3 +85,8 @@ Whereas New Crossroads demands a post-revolution economy that axes debt, trims f
 - **Fees Added**: 0.25% cash bonus, 1.5% base, 2% crypto, 2% over $1M—per original spec.  
 - **Scope**: Proposal only—9.5% tax, $3.65B SWF seeds, no sim data.  
 - **Next**: Link to Communications (AM), Education, Workforce, and EMSSWF acts.
+
+---
+
+- [Act 2: Educational Reform and Workforce Development Draft 3.1](./Act-2-Educational-Draft-3.1.md)  
+  Provides debt-free education for 16.8M students, trains 1.2M journeymen.
